@@ -1,3 +1,6 @@
+![er-diagram](https://github.com/user-attachments/assets/bc01a740-7db6-4cb8-a22d-c7c41e540d2c)
+![er-diagram](https://github.com/user-attachments/assets/1f0d9b91-985e-4b4b-9444-8ffee1ef47c3)
+
 ## วิธีการติดตั้งและรันโปรเจกต์
 
 ### ติดตั้ง Dependencies
